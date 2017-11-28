@@ -12,6 +12,6 @@ This is a hyperlink <a href="https://portal.azure.com">Azure Portal</a>
 ````  
 This is a note (with background)
 ````
-This is [an example](http://www.example.com/) inline link.
-[Solution Overview](solution-overview)
+This is [an example](http://www.example.com/) inline link.</br>
+[Solution Overview](solution-overview)</br>
 For more Click on https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html
