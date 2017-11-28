@@ -5,8 +5,8 @@ You can create a new paragraph by leaving a blank line between lines of text.
 # large headings
 ## medium heading
 ### small headings
-**This is a bold text** _This is Italic_ **_Bold and Italic_** ~~strikethrough~~
-<img src="Images/2017-11-08_23-33-12.jpg"/>  
+**This is a bold text** _This is Italic_ **_Bold and Italic_** ~~strikethrough~~</br>
+<img src="Images/2017-11-08_23-33-12.jpg" width="250" height="250"/>  
 This is a hyperlink <a href="https://portal.azure.com">Azure Portal</a> 
 
 ````  
